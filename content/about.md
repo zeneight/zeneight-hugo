@@ -6,5 +6,5 @@ aliases = ["zeneight","about-me","contact"]
   name = "Agung Priambada"
 +++
 
-Hi, this is my portfolio. Feel free to browse it.  
-Contact me on [Telegram](https://t.me/zeneight).
+Hi, this is my homepage. This web used by me to share some ideas, memories, things I learn and my though. Feel free to browse it.  
+Please contact me on [Telegram](https://t.me/zeneight)
