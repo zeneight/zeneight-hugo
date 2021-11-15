@@ -1,5 +1,5 @@
 baseURL = ""
-title   = "GooD_DaY"
+title   = "zeneight"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Agung Priambada"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -55,8 +55,8 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "zeneight's project portfolio"
-  keywords = ""
+  description = "Agung Priambada's homepage"
+  keywords = "zeneight, agung, priambada, bali, indonesia"
   images = [""]
 
   # Home subtitle of the index page.
@@ -184,9 +184,9 @@ disableHugoGeneratorInject = false
 [menu]
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "About Me"
     url        = "about/"
   [[menu.main]]
     identifier = "posts"
-    name       = "Post"
+    name       = "Ideas"
     url        = "posts/"
