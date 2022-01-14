@@ -1,16 +1,21 @@
----
-author:
-  name: "Agung Priambada"
-date: 2022-01-01
-linktitle: Happy New Year 2022!
-type:
-- post
-- posts
-title: Happy New Year 2022!
-weight: 10
-series:
-- Hugo 101
----
++++
+title = "Lavuebooster"
+description = ""
+type = ["posts","post"]
+tags = [
+    "devlog",
+    "development",
+    "laravel",
+]
+date = "2014-04-02"
+categories = [
+    "Development",
+    "Project",
+]
+series = ["Hugo 101"]
+[ author ]
+  name = "Agung Priambada"
++++
 
 
 ## Introduction
