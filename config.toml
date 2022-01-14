@@ -68,7 +68,7 @@ disableHugoGeneratorInject = false
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
-  # gitUrl = ""
+  # gitUrl = "https://github.com/zeneight/zeneight-hugo"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   #
@@ -144,10 +144,10 @@ disableHugoGeneratorInject = false
 
   # Uncomment this if you want a portrait on your start page
   #
-  # [params.portrait]
-  #   path     = "/img/image.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
+   [params.portrait]
+     path     = "/img/logo.jpg"
+     alt      = "Portrait"
+     maxWidth = "50px"
 
   # Social icons
   [[params.social]]
