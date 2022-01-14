@@ -111,7 +111,7 @@ disableHugoGeneratorInject = false
 
     topText = []
     bottomText = ["Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-            "Made with &#10084; </a>"]
+            "Made with &#10084; </a> by Agung Priambada"]
 
   # Colors for favicons
   #
@@ -167,8 +167,8 @@ disableHugoGeneratorInject = false
  #   url  = "https://www.linkedin.com/"
 
   [[params.social]]
-    name = "signal"
-    url  = "https://agungpriambada.blogspot.com/"
+    name = "whatsapp"
+    url  = "https://wa.me/6281238921686"
 
 [languages]
   [languages.en]
@@ -187,6 +187,6 @@ disableHugoGeneratorInject = false
     name       = "About Me"
     url        = "about/"
   [[menu.main]]
-    identifier = "posts"
+    identifier = "ideas"
     name       = "Ideas"
-    url        = "posts/"
+    url        = "ideas/"
