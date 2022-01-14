@@ -68,7 +68,7 @@ disableHugoGeneratorInject = false
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
-  # gitUrl = "https://github.com/zeneight/zeneight-hugo"
+  # gitUrl = "https://github.com/zeneight/zeneight-hugo/commit/"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   #
