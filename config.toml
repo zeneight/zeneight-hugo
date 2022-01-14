@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "zeneight.xyz"
 title   = "zeneight"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -189,4 +189,4 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "ideas"
     name       = "Ideas"
-    url        = "ideas/"
+    url        = "posts/"
