@@ -1,4 +1,4 @@
-baseURL = "zeneight.xyz"
+baseURL = "//zeneight.xyz"
 title   = "zeneight"
 languageCode = "en-us"
 theme = "hello-friend-ng"
