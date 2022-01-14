@@ -1,5 +1,5 @@
 baseURL = "//zeneight.xyz"
-title   = ""
+title   = "zeneight"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -172,12 +172,12 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "zeneight's portfolio"
+    subtitle  = "agung's portfolio"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.id]
-    subtitle  = "zeneight's portfolio"
+    subtitle  = "agung's portfolio"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
