@@ -11,7 +11,7 @@ tags = [
 date = "2014-04-02"
 categories = [
     "Development",
-    "golang",
+    "daylog",
 ]
 series = ["Hugo 101"]
 [ author ]

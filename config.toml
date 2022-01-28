@@ -194,4 +194,8 @@ disableHugoGeneratorInject = false
     identifier = "devlog"
     name       = "Devlog"
     url        = "tags/devlog"
+  [[menu.main]]
+    identifier = "daylog"
+    name       = "Daylog"
+    url        = "categories/daylog"
   
