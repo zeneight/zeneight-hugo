@@ -3,14 +3,11 @@ title = "Tahun Baru Imlek 2022"
 description = ""
 type = ["posts","post"]
 tags = [
-    "devlog",
-    "development",
-    "laravel",
+    "life"
 ]
 date = "2022-01-01"
 categories = [
-    "Development",
-    "Project",
+    "daylog"
 ]
 series = ["Hugo 101"]
 [ author ]
