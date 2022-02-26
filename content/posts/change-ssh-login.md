@@ -9,7 +9,7 @@ tags = [
     "linux",
     "server"
 ]
-date = "2022-26-02"
+date = "2022-02-26"
 categories = [
     "Development",
     "Devlog",
