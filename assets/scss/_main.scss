@@ -245,11 +245,11 @@ code {
 
 pre {
   [data-theme=dark] & {
-    background-color: $dark-background-secondary;
+    background-color: #000;
   }
 
   [data-theme=light] & {
-    background-color: $light-background-secondary;
+    background-color: #000;
   }
 
   padding: 10px 10px 10px 20px;
