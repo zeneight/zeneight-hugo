@@ -1,5 +1,5 @@
 +++
-title = "Daylog #1"
+title = "Daylog 1"
 description = "An unintersting post made by someone not popular and not kind"
 type = ["posts","post"]
 tags = [
