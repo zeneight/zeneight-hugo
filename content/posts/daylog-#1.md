@@ -12,6 +12,10 @@ series:
 - Heartbroken
 aliases:
 - /blog/daylog-#1/
+tags:
+- life
+categories:
+- daylog
 ---
 
 ## Hari pertama
