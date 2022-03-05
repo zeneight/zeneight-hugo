@@ -1,22 +1,18 @@
----
-author:
-  name: "Agung Priambada"
-date: 2022-03-05
-linktitle: Daylog#1
-title: Daylog#1 (Trying to move on)
-type:
-- post
-- posts
-weight: 10
-series:
-- Heartbroken
-aliases:
-- /blog/daylog-#1/
-tags:
-- life
-categories:
-- daylog
----
++++
+title = "Daylog #1"
+description = "An unintersting post made by someone not popular and not kind"
+type = ["posts","post"]
+tags = [
+    "life"
+]
+date = "2022-03-05"
+categories = [
+    "daylog"
+]
+series = ["Heartbroken"]
+[ author ]
+  name = "Agung Priambada"
++++
 
 ## Hari pertama
 ### The workday on weekends
