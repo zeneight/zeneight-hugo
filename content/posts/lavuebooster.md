@@ -15,26 +15,25 @@ series = ["Personal Projects"]
   name = "Agung Priambada"
 +++
 
-## Introduction
+## Intro
 
 Apa itu Lavuebooster?
 
 Vue.js + Laravel SPA + Vuetify + CrudBooster
 Sebuah framework dengan base laravel. Yang telah ditambahkan beberapa library pendukung.
+Project ini saya buat untuk memudahkan saya dalam mengembangkan aplikasi dan juga secara capat dan efisien.
 
-## Stacks & Features
+## Teknologi dan Stacks
+
+Project ini memakai beberapa tool dan library berikut;
 
 - Laravel 7
 - Vue.js boilerplate dengan Komponen: App, Header, Navbar, Footer, Sidebar
 - 3 Menu item menggunakan Vue Router: Homepage (dinamis dari API), About dan Contact (statis)
 - Laravel model Product dengan Migrations+Seeds, menggunakan API Resource
-- Crudbooster
+- Crudbooster (crud generator)
 
-## License
+## Lisensi
 
-MIT
-
-## More Info 
-
-Check my Github
+Project ini berlisensi MIT dan bersifat Open Source. Silahkan cek github untuk informasi lebih lanjut mengenai project ini.
 https://github.com/zeneight/lavuebooster
