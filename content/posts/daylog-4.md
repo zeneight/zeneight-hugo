@@ -1,5 +1,5 @@
 +++
-title = "Daylog #4 (A stupid decision)"
+title = "Daylog 4 (A stupid decision)"
 description = "You knew that it will go bad but you still do it anyway"
 type = ["posts","post"]
 tags = [
