@@ -5,7 +5,7 @@ type = ["posts","post"]
 tags = [
     "life"
 ]
-date = "2022-09-18"
+date = "2023-09-18"
 categories = [
     "daylog"
 ]
