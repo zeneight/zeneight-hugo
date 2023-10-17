@@ -1,11 +1,11 @@
 +++
-title = "Being a Clown"
-description = "Menjadi seorang badut"
+title = "You can do it"
+description = "Kamu bisa melakukannya"
 type = ["posts","post"]
 tags = [
     "life"
 ]
-date = "2023-10-10"
+date = "2023-10-18"
 categories = [
     "daylog"
 ]
