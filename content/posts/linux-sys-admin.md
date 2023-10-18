@@ -1,5 +1,5 @@
 +++
-title = "Ganti Pesan Login SSH Linux"
+title = "Administrator Sistem Linux"
 description = ""
 type = ["posts","post"]
 tags = [
